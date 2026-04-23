@@ -1,7 +1,8 @@
 #  Human and Legal Aspects of Cyber Security
 ## Assessment 01: AI-Enabled Biometric Facial Recognition | UK Central Government
 
-**Module Leader:** Dr Yan Lin Aung | University of Derby | 2025/26  
+**Presenter:** Human and Legal Aspects of Cyber Security | Assessment 01 | 2025/26 STUDENT ID: 100793951
+  
 
 
 ---
