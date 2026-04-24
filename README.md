@@ -1,7 +1,7 @@
 #  Human and Legal Aspects of Cyber Security
-## Assessment 01: AI-Enabled Biometric Facial Recognition | UK Central Government
+## Assessment : AI-Enabled Biometric Facial Recognition | UK Central Government
 
-**Presenter:** Human and Legal Aspects of Cyber Security | Assessment 01 | 2025/26 STUDENT ID: 100793951
+**Presenter:** Human and Legal Aspects of Cyber Security | Assessment 01 | 2025/26 STUDENT ID: 100793951 -BARNABAS BAIDOO PIETERSON
   
 
 
@@ -32,11 +32,11 @@
 
 | Component | Weight | Coverage |
 |-----------|--------|----------|
-| C1 — AI Regulatory & Legal Case Study | 35% | Slides 3–6 |
-| C2 — Human-Centred AI & Security Analysis | 25% | Slides 7–8 |
-| C3 — AI Risk & Compliance Mapping | 15% | Slide 9 |
-| C4 — Reflective Commentary | 10% | Slide 10 |
-| C5 — Automation Artefacts | 15% | Slides 11–12 + Notebooks |
+| C1 — AI Regulatory & Legal Case Study  | Slides 3–6 |
+| C2 — Human-Centred AI & Security Analysis | Slides 7–8 |
+| C3 — AI Risk & Compliance Mapping | Slide 9 |
+| C4 — Reflective Commentary  | Slide 10 |
+| C5 — Automation Artefacts | Slides 11–12 + Notebooks |
 
 ---
 
